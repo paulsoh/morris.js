@@ -1,6 +1,6 @@
 Morris = window.Morris = {}
 
-$ = jQuery || global.jQuery
+$ = global.jQuery
 
 # Very simple event-emitter class.
 #
